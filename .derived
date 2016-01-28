@@ -1,0 +1,5 @@
+# Set all directories at depth 1 as derived
+./**/
+
+# set all 'target' folders as derived
+**/target

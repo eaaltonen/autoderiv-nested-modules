@@ -1,0 +1,2 @@
+# Set all directories at depth 1 as derived
+./**/
